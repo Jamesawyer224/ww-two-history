@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jamesawyer224/ww-two-history.git/static/css/main.721d5947.css",
+    "main.js": "/Jamesawyer224/ww-two-history.git/static/js/main.f7e64349.js",
+    "index.html": "/Jamesawyer224/ww-two-history.git/index.html",
+    "main.721d5947.css.map": "/Jamesawyer224/ww-two-history.git/static/css/main.721d5947.css.map",
+    "main.f7e64349.js.map": "/Jamesawyer224/ww-two-history.git/static/js/main.f7e64349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721d5947.css",
+    "static/js/main.f7e64349.js"
+  ]
+}
