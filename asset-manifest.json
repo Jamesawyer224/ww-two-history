@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ww-two-history/static/css/main.721d5947.css",
-    "main.js": "/ww-two-history/static/js/main.f7e64349.js",
+    "main.js": "/ww-two-history/static/js/main.a4bf8c6c.js",
     "index.html": "/ww-two-history/index.html",
     "main.721d5947.css.map": "/ww-two-history/static/css/main.721d5947.css.map",
-    "main.f7e64349.js.map": "/ww-two-history/static/js/main.f7e64349.js.map"
+    "main.a4bf8c6c.js.map": "/ww-two-history/static/js/main.a4bf8c6c.js.map"
   },
   "entrypoints": [
     "static/css/main.721d5947.css",
-    "static/js/main.f7e64349.js"
+    "static/js/main.a4bf8c6c.js"
   ]
 }
